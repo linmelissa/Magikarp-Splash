@@ -1,11 +1,11 @@
 # Magikarp-Splash
 
-![](/assets/introscreen.png)
-
 ## Description
 A 2D Platformer game that is Pokemon themed created in Python with Pygame
 
+![](/assets/introscreen.png)
 ![](/assets/gameplay.png)
+![](/assets/gameclear.png)
 
 ## Instructions
 - SPACE to jump
