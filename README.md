@@ -12,5 +12,5 @@ A 2D Platformer game that is Pokemon themed created in Python with Pygame
 - Eat rare candies to level up
 - Avoid Remoraids
 - Reach level 20 to evolve into Gyarados
-- 
+
 ![](/assets/gameclear.png)
