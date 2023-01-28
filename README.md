@@ -1,8 +1,10 @@
 # Magikarp-Splash
-![](/assets/intro screen.png)
+
+![](/assets/introscreen.png)
 
 ## Description
 A 2D Platformer game that is Pokemon themed created in Python with Pygame
+
 ![](/assets/gameplay.png)
 
 ## Instructions
@@ -10,4 +12,5 @@ A 2D Platformer game that is Pokemon themed created in Python with Pygame
 - Eat rare candies to level up
 - Avoid Remoraids
 - Reach level 20 to evolve into Gyarados
-![](/assets/game clear.png)
+- 
+![](/assets/gameclear.png)
